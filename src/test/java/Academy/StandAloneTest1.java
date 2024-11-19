@@ -19,7 +19,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class StandAloneTest1 {
 
 	public static void main(String[] args) {
-//new comment
+
 		WebDriverManager.chromedriver().setup();
 		// System.setProperty("webdriver.chrome.driver",
 		// "C:\\Users\\mfron\\Downloads\\chromedriver_win32\\chromedriver.exe");
